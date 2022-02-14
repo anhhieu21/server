@@ -1,0 +1,2 @@
+# server
+Run : npm start 
